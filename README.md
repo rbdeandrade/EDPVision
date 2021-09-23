@@ -1,7 +1,7 @@
 <H2 [ENG]>EDP Vision</H2>
     <br>
         <p>
-        This project was developed for the EDP University Challange 2019 and used ViroReact. Was one of the finalist in Portugal and Global stages.
+        This project was developed for the <a href="https://portugal.edp.com/en/edp-university-challenge-2019">EDP University Challange 2019</a> and used ViroReact. Was one of the finalist in Portugal and Global stages.
         </p>
     <br>
     <hr>
